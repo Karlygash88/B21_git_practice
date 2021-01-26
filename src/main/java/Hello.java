@@ -4,5 +4,6 @@ public class Hello {
         System.out.println("Hello hello");
         System.out.println("Hi");
         // movie on the phone for 10 min
+        // movie on the phone for 20 min
     }
 }
